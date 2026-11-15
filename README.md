@@ -161,4 +161,8 @@ onde `n` é o número de domicílios do CEP em cada setor. Setores com dado supr
 
 ## Dados
 
-Os dados são do IBGE e de uso público. Este repositório contém só o código; nenhum arquivo do IBGE é redistribuído aqui.
+Os dados são do IBGE e de uso público. Este repositório contém só o código; nenhum arquivo do IBGE é redistribuído aqui. O script não processa nem produz dado pessoal: trabalha só com agregados por setor censitário e por área de ponderação, nunca com registros individuais.
+
+## Licença
+
+Distribuído sob a licença MIT (arquivo `LICENSE`). Uso livre, inclusive comercial, com manutenção do aviso de copyright.

@@ -1,0 +1,11 @@
+# Downloads do IBGE (o script baixa de novo) e resultados gerados
+cache_ibge/
+saida/
+*.duckdb
+
+# Ambiente local
+.DS_Store
+.spyproject/
+__pycache__/
+*.pyc
+.venv/

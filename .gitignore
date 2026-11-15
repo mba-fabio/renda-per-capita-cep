@@ -9,3 +9,6 @@ saida/
 __pycache__/
 *.pyc
 .venv/
+
+# Anotações pessoais, nunca sobem para o GitHub
+comandos_git.txt
